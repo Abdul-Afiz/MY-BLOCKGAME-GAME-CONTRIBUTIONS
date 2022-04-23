@@ -1,11 +1,17 @@
 # MY-BLOCKGAME-GAME-CONTRIBUTIONS
-this is a collection to the contribution in each team during the block game phase.
+This is a collection to the contribution in each team during the block game phase.
 
 My Slack Name is @Abdul Afeez
+ 
+| Groups | Commit Link | Description |
+| :------------ |   :---:       | --------: |
+| `Group 1 => Team BlockNinja` | https://github.com/Ifenna-Pascal/Bloggames---Nestcoin_Reward_Dapp/commit/53e1e83952dbf400bb57e3c90da58643f49e6cfb | `i edited the UI and make corrections to it.` |
+| `Group 1 => Team BlockNinja` | https://github.com/Ifenna-Pascal/Bloggames---Nestcoin_Reward_Dapp/commit/c72b22734a23d9d3be0bf6f6fcd163d2aa1bccd9 | `i implemented a new feature that allows acceptance of excel file, then extract the address of users from it to deliver token to them.` |
+| `Group 2 => Team Probation` | null | `i had issues with my pc so i couldn't do anything.` |
+| `Group 3 => Team Unicorn` | https://github.com/The-Unicorn-Team/ZuriDao/commit/1bcc68b890537920f7b44f5ced44387e699be0b6 | `i implemented the landing page and setup the front end with the team lead` |
+| `Group 3 => Team Unicorn` | null | `i also contributed to the team project documentation by creating it.` |
 
-GROUP 1 ===== This is the link to my contribution in the first team. i implemented features such asa accepting excel file to extract data from it, condition rendering of user information, i also refactored the code. where i created the UI being used for the contract and deployed to 
-netlify => https://nestcoin-ui2.netlify.app/ - github contribution => https://github.com/Ifenna-Pascal/Bloggames---Nestcoin_Reward_Dapp/tree/afeez-nestcoin
 
-GROUP 2 ===== i didnt contrivbute because my pc is faulty.
+netlify => https://nestcoin-ui2.netlify.app/
 
-GROUP 3 ===== i collaborated with the team lead to set up the frontend structure, i developed the landing page, i also contributed to the refactoring of the code. => https://github.com/Abdul-Afiz/ZuriDao/tree/dev/frontend --- the repo has grown now due to immense update and contribution among the members.
+i've had issues with my PC which is mt major challenge, but the one i was able to manage to do are the ones i dropped the link here.
